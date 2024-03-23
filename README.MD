@@ -1,7 +1,7 @@
 # Projeto artigo técnico gerado por I.A.s
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/flutter-decodificado-estrategias-para-facilitar-a-curva-de-aprendizado-e-dominar-o-gerenciamento-de-estado?back=%2Fhome&page=1&order=oldest" title="Ler artigo> 📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/flutter-decodificado-estrategias-para-facilitar-a-curva-de-aprendizado-e-dominar-o-gerenciamento-de-estado" title="Ler artigo"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
